@@ -6,6 +6,12 @@
 
 ###
 
+<div align="left">
+  <img src="https://profile-counter.glitch.me/martru118/count.svg?"  />
+</div>
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
