@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2016<br>📚 Interests: web development, data science, databases, cloud computing<br>🎯 Goals: to land a software engineering position after recently graduating</p>
+<p align="left">✨ Creating bugs since 2016<br>📚 Interests: web development, data science, databases, cloud computing<br>🎯 Goals: to land a software engineering position after graduation</p>
 
 ###
 
@@ -63,5 +63,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-###
