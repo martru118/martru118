@@ -6,9 +6,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/martru118/count.svg?"  />
-</div>
+![views](https://komarev.com/ghpvc/?username=martru118)
 
 ###
 
